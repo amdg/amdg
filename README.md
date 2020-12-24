@@ -4,7 +4,6 @@ I'm Mars. SRE by day, JavaScript hobbyist by night.
 
 - 🌱 I’m currently learning [Svelte] and [Typescript].
 - 💬 Ask me about cloud architecture, infrastructure as code, and setting up a development environment in Windows.
-- ⚡ Yes, Windows is a perfectly acceptable development environment in 2020 (and has been for some time).
 
 [svelte]: https://svelte.dev/
 [typescript]: https://www.typescriptlang.org/
