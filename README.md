@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm Mars. I like to tinker.
+I'm Mars. SRE by day, JavaScript hobbyist by night.
+
+- 🌱 I’m currently learning [Svelte] and [Typescript]
+
+[svelte]: https://svelte.dev/
+[typescript]: https://www.typescriptlang.org/
 
 <!--
 **amdg/amdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
