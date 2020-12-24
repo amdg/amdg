@@ -2,7 +2,8 @@
 
 I'm Mars. SRE by day, JavaScript hobbyist by night.
 
-- 🌱 I’m currently learning [Svelte] and [Typescript]
+- 🌱 I’m currently learning [Svelte] and [Typescript].
+- 💬 Ask me about cloud architecture, infrastructure as code, and setting up a development environment in Windows.
 
 [svelte]: https://svelte.dev/
 [typescript]: https://www.typescriptlang.org/
